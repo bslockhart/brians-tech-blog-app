@@ -1,64 +1,36 @@
-// {
-//     "name": "brians-tech-blog-app",
-//     "version": "1.0.0",
-//     "description": "tech-blog",
-//     "main": "server.js",
-//     "scripts": {
-//         "test": "jest",
-//         "start": "node server.js",
-//         "watch": "nodemon server.js",
-//         "seed": "node seeds/index.js"
-//     },
-//     "repository": {
-//         "type": "git",
-//         "url": "git@github.com:bslockhart/brians-tech-blog-app.git"
-//     },
-//     "author": "Brian Lockhart",
-//     "license": "MIT",
-//     "bugs": {
-//         "url": "https://github.com/bslockhart/brians-tech-blog-app/issues"
-//     },
-//     "homepage": "https://github.com/bslockhart/brians-tech-blog-app#readme",
-//     "dependencies": {
-//         "bcrypt": "^5.0.0",
-//         "connect-session-sequelize": "^6.1.1",
-//         "dotenv": "^8.2.0",
-//         "express": "^4.17.1",
-//         "express-handlebars": "^6.0.6",
-//         "express-session": "^1.17.1",
-//         "mysql2": "^2.1.0",
-//         "sequelize": "^5.21.12"
-//     },
-//     "devDependencies": {
-//         "jest": "^26.4.2",
-//         "nodemon": "^2.0.4"
-//     }
-// }
-
 {
     "name": "brians-tech-blog-app",
     "version": "1.0.0",
-    "description": "Tech Blog",
+    "description": "tech-blog",
     "main": "server.js",
     "scripts": {
-      "devStart": "nodemon server.js",
-      "dev": "nodemon --ignore './asyncFile/' ./server.js"
+        "test": "jest",
+        "start": "node server.js",
+        "watch": "nodemon server.js",
+        "seed": "node seeds/index.js"
     },
     "repository": {
-      "type": "git",
-      "url": "git+https://git.heroku.com/brians-tech-blog-app.git"
+        "type": "git",
+        "url": "git@github.com:bslockhart/brians-tech-blog-app.git"
     },
-    "author": "",
+    "author": "Brian Lockhart",
     "license": "MIT",
     "bugs": {
-      "url": "https://github.com/bslockhart/brians-tech-blog-app/issues"
+        "url": "https://github.com/bslockhart/brians-tech-blog-app/issues"
     },
-    "homepage": "https://github.com/bslockhart/brians-tech-blog-app",
-    "keywords": [],
+    "homepage": "https://github.com/bslockhart/brians-tech-blog-app#readme",
     "dependencies": {
-      "express": "^4.17.3"
+        "bcrypt": "^5.0.0",
+        "connect-session-sequelize": "^6.1.1",
+        "dotenv": "^8.2.0",
+        "express": "^4.17.1",
+        "express-handlebars": "^6.0.6",
+        "express-session": "^1.17.1",
+        "mysql2": "^2.1.0",
+        "sequelize": "^5.21.12"
     },
     "devDependencies": {
-      "nodemon": "^2.0.15"
+        "jest": "^26.4.2",
+        "nodemon": "^2.0.4"
     }
-  }
+}
