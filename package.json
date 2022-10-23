@@ -1,5 +1,5 @@
 {
-    "name": "the-tech-blog",
+    "name": "brians-tech-blog-app",
     "version": "1.0.0",
     "description": "tech-blog",
     "main": "server.js",
