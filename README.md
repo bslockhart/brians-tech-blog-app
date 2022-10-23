@@ -45,6 +45,8 @@ The following is a CMS-style blog site similar to a Wordpress site, where develo
 9. Run Tests: `npm run test`
 8. Run: `npm run seed` to seed the databse.
 9. Run: `npm start`
+10. UserName: 'password'
+11. Password: 'password'
 
 ### User Story
 * AS A developer who writes about tech
