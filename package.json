@@ -1,5 +1,5 @@
 {
-    "name": "brians-tech-blog-app",
+    "name": "the-tech-blog",
     "version": "1.0.0",
     "description": "tech-blog",
     "main": "server.js",
@@ -11,7 +11,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://git.heroku.com/brians-tech-blog-app.git"
+        "url": "git@github.com:bslockhart/brians-tech-blog-app.git"
     },
     "author": "Brian Lockhart",
     "license": "MIT",
