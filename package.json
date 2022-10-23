@@ -11,7 +11,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git@github.com:bslockhart/brians-tech-blog-app.git"
+        "url": "git+https://git.heroku.com/brians-tech-blog-app.git"
     },
     "author": "Brian Lockhart",
     "license": "MIT",
