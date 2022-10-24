@@ -18,7 +18,6 @@ const sess = {
         db: sequelize
     })
 };
-app.use(express.favicon(__dirname + '/public/images/favicon.ico'));
 app.use(session(sess));
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
