@@ -115,5 +115,5 @@ The following is a CMS-style blog site similar to a Wordpress site, where develo
 ### Submission
 * Date Submitted: November 2, 2022
 * You are required to submit BOTH of the following for review: 
-1. The URL of the functional, deployed application:
-2. The URL of the GitHub repository. Give the repository a unique name and include a README describing the project:
+1. The URL of the functional, deployed application: https://brians-tech-blog-app.herokuapp.com/
+2. The URL of the GitHub repository. Give the repository a unique name and include a README describing the project: https://github.com/bslockhart/brians-tech-blog-app
