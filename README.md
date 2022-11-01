@@ -110,10 +110,10 @@ The following is a CMS-style blog site similar to a Wordpress site, where develo
 * Repository follows best practices for file structure and naming conventions.
 * Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
 * Repository contains multiple descriptive commit messages.
-* Repository contains a high-quality README with description and a link to a walkthrough video.
+* Repository contains a high-quality README with description and a link to a deployed application.
 
 ### Submission
-* Date Submitted: November 2, 2022
+* Date Submitted: November 1, 2022
 * You are required to submit BOTH of the following for review: 
 1. The URL of the functional, deployed application: https://brians-tech-blog-app.herokuapp.com/
 2. The URL of the GitHub repository. Give the repository a unique name and include a README describing the project: https://github.com/bslockhart/brians-tech-blog-app
